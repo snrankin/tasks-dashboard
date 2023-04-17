@@ -1,0 +1,18 @@
+{
+  "items" : [
+    {
+      "path" : "index.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1681756555,
+      "checksum" : "7693b63ebebfab25daf9700788c0627e",
+      "fileSize" : 1942
+    },
+    {
+      "path" : "scripts.js",
+      "mimeType" : "text/javascript",
+      "lastUpdated" : 1681755594,
+      "checksum" : "b7568f67e592e6affe41eb5402b582b9",
+      "fileSize" : 829
+    }
+  ]
+}
